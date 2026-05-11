@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name":"John Doe",
+        "testimoni":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. dhsabdaha hdbashdasd dahsbdahd dsaisjd",
+        "title" : "Tourism",
+        "image" : "https://images.pexels.com/photos/15932225/pexels-photo-15932225.jpeg"
+    },
+    {
+        "id": 2,
+        "name":"Alexia Sneijder",
+        "testimoni":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "title" : "Tourism",
+        "image" : "https://images.pexels.com/photos/36623220/pexels-photo-36623220.jpeg"
+    },
+    {
+        "id": 3,
+        "name":"Georgina",
+        "testimoni":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "title" : "Tourism",
+        "image" : "https://images.pexels.com/photos/18883942/pexels-photo-18883942.jpeg"
+    },
+    {
+        "id": 4,
+        "name":"Robert Demon",
+        "testimoni":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "title" : "Tourism",
+        "image" : "https://images.pexels.com/photos/15393590/pexels-photo-15393590.jpeg"
+    }
+]

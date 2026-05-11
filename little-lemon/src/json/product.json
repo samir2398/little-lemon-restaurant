@@ -1,0 +1,23 @@
+[
+  {
+    "id" : 1,
+    "name": "Greak Salad",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and .",
+    "price": 20,
+    "image": "https://images.pexels.com/photos/33829496/pexels-photo-33829496.jpeg"
+},
+ {
+    "id" : 2,
+    "name": "Bruchesta",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and . sdjsajkdnsjdnjsdandjndakjsndaka",
+    "price": 15,
+    "image": "https://images.pexels.com/photos/11957662/pexels-photo-11957662.jpeg"
+},
+ {
+    "id" : 3,
+    "name": "Lemon Dessert",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and .",
+    "price": 30,
+    "image": "https://images.pexels.com/photos/12035555/pexels-photo-12035555.jpeg"
+}
+]

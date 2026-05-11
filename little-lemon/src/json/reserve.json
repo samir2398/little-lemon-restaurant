@@ -1,0 +1,23 @@
+{
+  "reserve": [
+    {
+      "date": "2026-05-06",
+      "time": "17:04",
+      "number_dinners": "4",
+      "occasion": "test",
+      "seating": "outside",
+      "id": "NtaWA-1fUZw"
+    }
+  ],
+  "checkout": [
+    {
+      "booking_details": "2026-05-06-17:04-4",
+      "card_number": "123456789012",
+      "name": "test",
+      "exp_date": "12/21",
+      "cvv": "1234",
+      "id": "hxCxSj2Fb3U"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
